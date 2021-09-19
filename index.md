@@ -1,51 +1,82 @@
----
-layout: homepage
----
+# About Me
 
-## About Me
+I work on condensed matter theory, with a focus on low-dimensional quantum physics. The main interest is to predict/explain novel quantum phenomena that arise from the interplay of symmetry, topology, and many-body interactions. I have been studying a variety of topics, including, single-particle as well many-body physics in moiré superlattices, superconductivity, topological phases of matter, light-matter interactions, and quantum Hall effects. With my collaborators, I made a number of theoretical predictions that have far-reaching impacts on the field, as many of them have been experimentally realized/verified.
 
-I am a Ph.D. student at ...
+•	**Proposal of using semiconductor moiré bilayers as quantum simulators** ([PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.026402))
 
-## Research Interests
+see [Nature](https://www.nature.com/articles/s41586-020-2085-3), [Nature](https://www.nature.com/articles/s41586-020-2092-4), and [Nature](https://www.nature.com/articles/s41586-020-2868-6) for experimental realizations.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+•	**Prediction of topological phases in semiconductor moiré bilayers** ([PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.086402))
 
-## News
+see [arXiv](https://arxiv.org/abs/2107.01796) for observation of quantum anomalous Hall effects in MoTe2/WSe2.
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+•	**Prediction of signatures of moiré excitons in optical spectrum** ([PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.147401), [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.035306))
 
-## Publications
+see [Nature](https://www.nature.com/articles/s41586-019-0975-z), [Nature](https://www.nature.com/articles/s41586-019-0976-y), [Nature](https://www.nature.com/articles/s41586-019-0957-1),  [Nature](https://www.nature.com/articles/s41586-019-0986-9), and [Nature](https://www.nature.com/articles/s41586-021-03228-5) for observation of moiré excitons and polaritons.
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+•	**Prediction of phonon-induced giant T-linear resistivity in graphene moiré systems** ([PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.165112))
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+see [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.076801), [Nature Physics](https://www.nature.com/articles/s41567-019-0596-3?proof=t), and [arxiv](https://arxiv.org/abs/2104.05406) for observation of T-linear resistivity in graphene moiré systems.
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+•	**Prediction of phonon-mediated unconventional pairings in graphene-based systems** ([PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.257001),[PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.165112))
 
-## Services
+see [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.237002) and [arXiv](https://arxiv.org/abs/2106.13231) for applications of our theory to study SC in graphene-based systems.
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+
+
+
+
+
+
+# Education
+
+•	Ph.D. in Physics, The University of Texas at Austin, 2011-2016, Advisor: [Allan H. MacDonald](https://cns.utexas.edu/directory/item/18-physics/444-macdonald-allan-h?Itemid=349)
+
+•	B. S. in Physics, University of Science and Technology of China, 2007-2011
+
+
+# Employment
+
+•	Professor, Wuhan University, Since 2020
+
+•	Postdoc, University of Maryland, 2018-2020, Advisor: [Sankar Das Sarma](https://www.physics.umd.edu/cmtc/)
+
+•	Postdoc, Argonne National Laboratory, 2016-2018, Advisor: [Ivar Martin](https://www.anl.gov/profile/ivar-martin)
+
+
+
+# Selected Publications
+
+### Theoretical Works
+
+1.	F. Wu and S. Das Sarma, "Collective Excitations of Quantum Anomalous Hall Ferromagnets in Twisted Bilayer Graphene", [Phys. Rev. Lett. **124**, 046403 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.046403).
+
+2.	R.-X. Zhang†, F. Wu†, and S. Das Sarma, "Möbius Insulator and Higher-Order Topology in MnBi2nTe3n+1", [Phys. Rev. Lett. **124**, 136407 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.136407). († corresponding authors)
+
+3.	F. Wu, T. Lovorn, E. Tutuc, I. Martin, and A. H. MacDonald, "Topological insulators in twisted transition metal dichalcogenide homobilayers", [Phys. Rev. Lett. **122**, 086402 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.086402).
+
+4.	F. Wu, A. H. MacDonald, and I. Martin, "Theory of phonon-mediated superconductivity in twisted bilayer graphene", [Phys. Rev. Lett. **121**, 257001 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.257001).
+
+5.	F. Wu, T. Lovorn, E. Tutuc, and A. H. MacDonald, "Hubbard model physics in transition metal dichalcogenide moiré bands", [Phys. Rev. Lett. **121**, 026402 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.026402).
+
+6.	F. Wu, T. Lovorn, and A. H. MacDonald, "Topological exciton bands in moiré heterojunctions", [Phys. Rev. Lett. **118**, 147401 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.147401).
+
+
+### Experimental Works
+
+1.	L. Zhang, F. Wu, S. Hou, Z. Zhang, Y.-H. Chou, K. Watanabe, T. Taniguchi, S. R. Forrest and H. Deng, "Van der Waals heterostructure polaritons with moiré-induced nonlinearity", [Nature **591**, 61 (2021)](https://www.nature.com/articles/s41586-021-03228-5).
+
+2.	L. Zhang, Z. Zhang, F. Wu†, D. Wang, R. Gogna, S. Hou, K. Watanabe, T. Taniguchi, K. Kulkarni, T. Kuo, S. Forrest, and H. Deng†, "Twist-angle dependence of moiré excitons in WS2/MoSe2 heterobilayers", [Nat. Commun. **11**, 5888 (2020)](https://www.nature.com/articles/s41467-020-19466-6). († corresponding authors)
+
+3.	K. Tran, G. Moody, F. Wu†, X. Lu, J. Choi, K. Kim, A. Rai, D. A. Sanchez, J. Quan, A. Singh, J. Embley, A. Zepeda, M. Campbell, T. Autry, T. Taniguchi, K. Watanabe, N. Lu, S. K. Banerjee, K. L. Silverman, S. Kim, E. Tutuc, L. Yang, A. H. MacDonald, and X. Li†, "Evidence for moiré excitons in van der Waals heterostructures", [Nature **567**, 71 (2019)](https://www.nature.com/articles/s41586-019-0975-z). († corresponding authors)
+
+4.	M. T. Randeria^, B. E. Feldman^, F. Wu^, H. Ding, A. Gyenis, H. Ji, R. J. Cava, A. H. MacDonald, and A. Yazdani, "Ferroelectric quantum Hall phase revealed by visualizing Landau level wave function interference", [Nature Physics **14**, 796 (2018)](https://doi.org/10.1038/s41567-018-0148-2). (^equal contribution)
+
+5.	B. E. Feldman, M. T. Randeria, A. Gyenis, F. Wu, H. Ji, R. Cava, A. H. MacDonald, and A. Yazdani, "Observation of a nematic quantum Hall liquid on the surface of bismuth", [Science **354**, 316 (2016)](http://science.sciencemag.org/content/354/6310/316).
+
+
+# Students and Postdocs
+
+**For motivated students and postdocs, please contact me by email.**
+
+**Together, Let's Move Science Forward!**

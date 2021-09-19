@@ -63,11 +63,6 @@
             <i class="fab fa-linkedin-in"></i>
           </a>
           {% endif %}
-           {% if site.arXiv %}
-          <a href="{{ site.arXiv }}" target="_blank">
-            <i class="ai ai-arxiv" style="font-size:1.6rem"></i>
-          </a>
-          {% endif %}
           {% if site.google_scholar %}
           <a href="{{ site.google_scholar}}" target="_blank">
             <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
@@ -77,6 +72,11 @@
           <a href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
           </a>
+          {% if site.arXiv %}
+          <a href="{{ site.arXiv }}" target="_blank">
+            <i class="ai ai-arxiv" style="font-size:1.6rem"></i>
+          </a>
+          {% endif %}
           {% endif %}
         </div>
         <br>

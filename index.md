@@ -53,30 +53,30 @@ see [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.237002) 
 
 ### Theoretical Works
 
-1.	F. Wu and S. Das Sarma, "Collective Excitations of Quantum Anomalous Hall Ferromagnets in Twisted Bilayer Graphene", [Phys. Rev. Lett. **124**, 046403 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.046403).
+1.	F. Wu and S. Das Sarma, "Collective Excitations of Quantum Anomalous Hall Ferromagnets in Twisted Bilayer Graphene", [Phys. Rev. Lett. 124, 046403 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.046403).
 
-2.	R.-X. Zhang†, F. Wu†, and S. Das Sarma, "Möbius Insulator and Higher-Order Topology in MnBi2nTe3n+1", [Phys. Rev. Lett. **124**, 136407 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.136407). († corresponding authors)
+2.	R.-X. Zhang†, F. Wu†, and S. Das Sarma, "Möbius Insulator and Higher-Order Topology in MnBi2nTe3n+1", [Phys. Rev. Lett. 124, 136407 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.136407). († corresponding authors)
 
-3.	F. Wu, T. Lovorn, E. Tutuc, I. Martin, and A. H. MacDonald, "Topological insulators in twisted transition metal dichalcogenide homobilayers", [Phys. Rev. Lett. **122**, 086402 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.086402).
+3.	F. Wu, T. Lovorn, E. Tutuc, I. Martin, and A. H. MacDonald, "Topological insulators in twisted transition metal dichalcogenide homobilayers", [Phys. Rev. Lett. 122, 086402 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.086402).
 
-4.	F. Wu, A. H. MacDonald, and I. Martin, "Theory of phonon-mediated superconductivity in twisted bilayer graphene", [Phys. Rev. Lett. **121**, 257001 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.257001).
+4.	F. Wu, A. H. MacDonald, and I. Martin, "Theory of phonon-mediated superconductivity in twisted bilayer graphene", [Phys. Rev. Lett. 121, 257001 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.257001).
 
-5.	F. Wu, T. Lovorn, E. Tutuc, and A. H. MacDonald, "Hubbard model physics in transition metal dichalcogenide moiré bands", [Phys. Rev. Lett. **121**, 026402 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.026402).
+5.	F. Wu, T. Lovorn, E. Tutuc, and A. H. MacDonald, "Hubbard model physics in transition metal dichalcogenide moiré bands", [Phys. Rev. Lett. 121, 026402 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.026402).
 
-6.	F. Wu, T. Lovorn, and A. H. MacDonald, "Topological exciton bands in moiré heterojunctions", [Phys. Rev. Lett. **118**, 147401 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.147401).
+6.	F. Wu, T. Lovorn, and A. H. MacDonald, "Topological exciton bands in moiré heterojunctions", [Phys. Rev. Lett. 118, 147401 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.147401).
 
 
 ### Experimental Works
 
-1.	L. Zhang, F. Wu, S. Hou, Z. Zhang, Y.-H. Chou, K. Watanabe, T. Taniguchi, S. R. Forrest and H. Deng, "Van der Waals heterostructure polaritons with moiré-induced nonlinearity", [Nature **591**, 61 (2021)](https://www.nature.com/articles/s41586-021-03228-5).
+1.	L. Zhang, F. Wu, S. Hou, Z. Zhang, Y.-H. Chou, K. Watanabe, T. Taniguchi, S. R. Forrest and H. Deng, "Van der Waals heterostructure polaritons with moiré-induced nonlinearity", [Nature 591, 61 (2021)](https://www.nature.com/articles/s41586-021-03228-5).
 
-2.	L. Zhang, Z. Zhang, F. Wu†, D. Wang, R. Gogna, S. Hou, K. Watanabe, T. Taniguchi, K. Kulkarni, T. Kuo, S. Forrest, and H. Deng†, "Twist-angle dependence of moiré excitons in WS2/MoSe2 heterobilayers", [Nat. Commun. **11**, 5888 (2020)](https://www.nature.com/articles/s41467-020-19466-6). († corresponding authors)
+2.	L. Zhang, Z. Zhang, F. Wu†, D. Wang, R. Gogna, S. Hou, K. Watanabe, T. Taniguchi, K. Kulkarni, T. Kuo, S. Forrest, and H. Deng†, "Twist-angle dependence of moiré excitons in WS2/MoSe2 heterobilayers", [Nat. Commun. 11, 5888 (2020)](https://www.nature.com/articles/s41467-020-19466-6). († corresponding authors)
 
-3.	K. Tran, G. Moody, F. Wu†, X. Lu, J. Choi, K. Kim, A. Rai, D. A. Sanchez, J. Quan, A. Singh, J. Embley, A. Zepeda, M. Campbell, T. Autry, T. Taniguchi, K. Watanabe, N. Lu, S. K. Banerjee, K. L. Silverman, S. Kim, E. Tutuc, L. Yang, A. H. MacDonald, and X. Li†, "Evidence for moiré excitons in van der Waals heterostructures", [Nature **567**, 71 (2019)](https://www.nature.com/articles/s41586-019-0975-z). († corresponding authors)
+3.	K. Tran, G. Moody, F. Wu†, X. Lu, J. Choi, K. Kim, A. Rai, D. A. Sanchez, J. Quan, A. Singh, J. Embley, A. Zepeda, M. Campbell, T. Autry, T. Taniguchi, K. Watanabe, N. Lu, S. K. Banerjee, K. L. Silverman, S. Kim, E. Tutuc, L. Yang, A. H. MacDonald, and X. Li†, "Evidence for moiré excitons in van der Waals heterostructures", [Nature 567, 71 (2019)](https://www.nature.com/articles/s41586-019-0975-z). († corresponding authors)
 
-4.	M. T. Randeria^, B. E. Feldman^, F. Wu^, H. Ding, A. Gyenis, H. Ji, R. J. Cava, A. H. MacDonald, and A. Yazdani, "Ferroelectric quantum Hall phase revealed by visualizing Landau level wave function interference", [Nature Physics **14**, 796 (2018)](https://doi.org/10.1038/s41567-018-0148-2). (^equal contribution)
+4.	M. T. Randeria^, B. E. Feldman^, F. Wu^, H. Ding, A. Gyenis, H. Ji, R. J. Cava, A. H. MacDonald, and A. Yazdani, "Ferroelectric quantum Hall phase revealed by visualizing Landau level wave function interference", [Nature Physics 14, 796 (2018)](https://doi.org/10.1038/s41567-018-0148-2). (^equal contribution)
 
-5.	B. E. Feldman, M. T. Randeria, A. Gyenis, F. Wu, H. Ji, R. Cava, A. H. MacDonald, and A. Yazdani, "Observation of a nematic quantum Hall liquid on the surface of bismuth", [Science **354**, 316 (2016)](http://science.sciencemag.org/content/354/6310/316).
+5.	B. E. Feldman, M. T. Randeria, A. Gyenis, F. Wu, H. Ji, R. Cava, A. H. MacDonald, and A. Yazdani, "Observation of a nematic quantum Hall liquid on the surface of bismuth", [Science 354, 316 (2016)](http://science.sciencemag.org/content/354/6310/316).
 
 
 # Students and Postdocs

@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 # About Me
 
 I work on condensed matter theory, with a focus on low-dimensional quantum physics. The main interest is to predict/explain novel quantum phenomena that arise from the interplay of symmetry, topology, and many-body interactions. I have been studying a variety of topics, including, single-particle as well many-body physics in moiré superlattices, superconductivity, topological phases of matter, light-matter interactions, and quantum Hall effects. With my collaborators, I made a number of theoretical predictions that have far-reaching impacts on the field, as many of them have been experimentally realized/verified.

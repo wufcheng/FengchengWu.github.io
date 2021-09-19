@@ -41,7 +41,7 @@ see [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.237002) 
 
 # Employment
 
-•	Professor, Wuhan University, Since 2020
+•	[Professor](https://physics.whu.edu.cn/info/1052/7001.htm), Wuhan University, Since 2020
 
 •	Postdoc, University of Maryland, 2018-2020, Advisor: [Sankar Das Sarma](https://www.physics.umd.edu/cmtc/)
 

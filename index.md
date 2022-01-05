@@ -12,7 +12,7 @@ see [Nature](https://www.nature.com/articles/s41586-020-2085-3), [Nature](https:
 
 •	**Prediction of topological phases in semiconductor moiré bilayers** ([PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.086402))
 
-see [arXiv](https://arxiv.org/abs/2107.01796) for observation of quantum anomalous Hall effects in MoTe2/WSe2.
+see [Nature](https://www.nature.com/articles/s41586-021-04171-1) for observation of quantum anomalous Hall effects in MoTe2/WSe2.
 
 •	**Prediction of signatures of moiré excitons in optical spectrum** ([PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.147401), [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.035306))
 
@@ -24,7 +24,7 @@ see [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.076801),
 
 •	**Prediction of phonon-mediated unconventional pairings in graphene-based systems** ([PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.257001),[PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.165112))
 
-see [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.237002) and [arXiv](https://arxiv.org/abs/2106.13231) for applications of our theory to study SC in graphene-based systems.
+see [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.187001) and [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.217001) for applications of our theory to study SC in graphene-based systems.
 
 
 
